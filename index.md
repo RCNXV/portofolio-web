@@ -39,6 +39,8 @@ In this project, I have developed a linear regression model to predict the numbe
 
 I investigate the evolving field of data science. Through a comprehensive examination, I explore the relationship between job titles and salaries, the impact of country classification on compensation, and the correlation between company size and average salary. By uncovering patterns and trends in these areas, I aim to provide valuable insights for professionals and organizations, facilitating informed decision-making regarding career paths, talent acquisition, and compensation strategies.
 
+<img src="images/Data-Science-Trends.png?raw=true"/>
+
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/BigQuery-white?logo=Google)](#)
 
 [View code on Github](https://github.com/RCNXV/Data-Science-Trends)
