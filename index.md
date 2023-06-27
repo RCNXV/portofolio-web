@@ -8,6 +8,8 @@
 
 In this project, I developed a machine learning model to predict user engagement with promotional banners on a new e-commerce website. By analyzing user behavior and leveraging existing data, the model provides valuable insights for optimizing marketing strategies and targeting potential customers more effectively. This data-driven solution enhances user engagement and improves the effectiveness of promotional efforts on the platform.
 
+<img src="images/CMHeatmap.png?raw=true"/>
+
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
 [View code on Github](https://github.com/RCNXV/Prediction-of-User-Visits-Through-the-Promotional-Banner-Feature)
