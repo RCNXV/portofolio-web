@@ -30,7 +30,7 @@ In this project, I have developed a linear regression model to predict the numbe
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
-<img src="images/TheDelayedEffect.jpg?raw=true"/>
+<img src="images/TheDelayedEffect.png?raw=true"/>
 
 [View code on Github](https://github.com/RCNXV/Dentist-Patient-Visit-Predictions.)
 
