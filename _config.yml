@@ -1,0 +1,14 @@
+title: Rifki C. Nugraha # your name (or website title) here
+logo: "/images/ProfilePhoto.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Motivated and dedicated Mathematics Education graduate with a strong interest in Mathematics, Statistics, Data Science, and Machine Learning. Experienced in problem-solving, data analysis, and mathematical thinking. Seeking a position to contribute to a team and solve complex problems. 
+  <br><br>
+  Selected as the Best Graduate of the Mathematics Education in 2022 at Indonesian University 
+  of Education
+  <br><br>
+  <a href="https://www.linkedin.com/in/rifki-candra-nugraha/">View My LinkedIn Profile</a> 
+  
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
