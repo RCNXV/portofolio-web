@@ -17,9 +17,9 @@ In this project, I developed a machine learning model to predict user engagement
 
 In this project, I created a content-based recommender system for films. It analyzes the content and characteristics of each film to identify similarities and patterns, generating personalized recommendations based on user preferences. By leveraging film features, the system curates a list of similar films, helping users discover movies aligned with their interests and tastes.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+<img src="images/ExampleSimilarityFunction.png?raw=true"/>
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
 [View code on Github](https://github.com/RCNXV/Project-Machine-Learning-with-Python-Recommender-System-with-Similarity-Function)
 
@@ -28,9 +28,9 @@ In this project, I created a content-based recommender system for films. It anal
 
 In this project, I developed a linear regression model to predict dentist visits based on sales data of sweet foods. By analyzing the correlations between sweet food consumption and dental visits, the model helps dental practices anticipate patient numbers and optimize resource planning. This data-driven approach improves the efficiency and effectiveness of dental care management.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
-
 <img src="images/TheDelayedEffect.png?raw=true"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
 [View code on Github](https://github.com/RCNXV/Dentist-Patient-Visit-Predictions.)
 
@@ -45,11 +45,11 @@ I investigate the evolving field of data science. Through a comprehensive examin
 
 [View code on Github](https://github.com/RCNXV/Data-Science-Trends)
 
+---
 ## Skill-Based Project
 A selection of smaller projects demonstrating specific data science and ML skills
 
 - [Simple Recommender System](https://github.com/RCNXV/Project-Machine-Learning-with-Python-Simple-Recommender-System)
 - [Gaming Industry Growth](https://github.com/RCNXV/Gaming-Industry-Growth)
-- 
 
 ---
