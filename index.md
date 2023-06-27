@@ -19,7 +19,7 @@ I investigate the evolving field of data science. Through a comprehensive examin
 
 In this project, I created a content-based recommender system for films. It analyzes the content and characteristics of each film to identify similarities and patterns, generating personalized recommendations based on user preferences. By leveraging film features, the system curates a list of similar films, helping users discover movies aligned with their interests and tastes.
 
-<img src="images/ExampleSimilarityFunction.png?raw=true"/>
+<img src="images/Figure1ExampleRecommenderSystem.png?raw=true"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
@@ -30,7 +30,7 @@ In this project, I created a content-based recommender system for films. It anal
 
 In this project, I developed a linear regression model to predict dentist visits based on sales data of sweet foods. By analyzing the correlations between sweet food consumption and dental visits, the model helps dental practices anticipate patient numbers and optimize resource planning. This data-driven approach improves the efficiency and effectiveness of dental care management.
 
-<img src="images/TheDelayedEffect.png?raw=true"/>
+<img src="images/Figure1.TheDelayedEffectfor8Month.png?raw=true"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
@@ -41,7 +41,7 @@ In this project, I developed a linear regression model to predict dentist visits
 
 In this project, I developed a machine learning model to predict user engagement with promotional banners on a new e-commerce website. By analyzing user behavior and leveraging existing data, the model provides valuable insights for optimizing marketing strategies and targeting potential customers more effectively. This data-driven solution enhances user engagement and improves the effectiveness of promotional efforts on the platform.
 
-<img src="images/CMHeatmap.png?raw=true"/>
+<img src="images/Figure1.ConfusionMatrix.png?raw=true"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
