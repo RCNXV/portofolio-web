@@ -4,15 +4,15 @@
 
 ## Selected Project in Data Science and Machine Learning Project
 
-### Prediction of User Visits Through the Promotional Banner Feature
+### Analyzing the Growth and Trends of Data Science Roles: A Comparative Study of Job Titles, Salaries, Country Classification, and Company Size
 
-In this project, I developed a machine learning model to predict user engagement with promotional banners on a new e-commerce website. By analyzing user behavior and leveraging existing data, the model provides valuable insights for optimizing marketing strategies and targeting potential customers more effectively. This data-driven solution enhances user engagement and improves the effectiveness of promotional efforts on the platform.
+I investigate the evolving field of data science. Through a comprehensive examination, I explore the relationship between job titles and salaries, the impact of country classification on compensation, and the correlation between company size and average salary. By uncovering patterns and trends in these areas, I aim to provide valuable insights for professionals and organizations, facilitating informed decision-making regarding career paths, talent acquisition, and compensation strategies.
 
-<img src="images/CMHeatmap.png?raw=true"/>
+<img src="images/Data-Science-Trends.png?raw=true"/>
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/BigQuery-white?logo=Google)](#)
 
-[View code on Github](https://github.com/RCNXV/Prediction-of-User-Visits-Through-the-Promotional-Banner-Feature)
+[View code on Github](https://github.com/RCNXV/Data-Science-Trends)
 
 ---
 ### Machine Learning Project: Recommender System with Similarity Function
@@ -37,15 +37,16 @@ In this project, I developed a linear regression model to predict dentist visits
 [View code on Github](https://github.com/RCNXV/Dentist-Patient-Visit-Predictions.)
 
 ---
-### Analyzing the Growth and Trends of Data Science Roles: A Comparative Study of Job Titles, Salaries, Country Classification, and Company Size
+### Prediction of User Visits Through the Promotional Banner Feature
 
-I investigate the evolving field of data science. Through a comprehensive examination, I explore the relationship between job titles and salaries, the impact of country classification on compensation, and the correlation between company size and average salary. By uncovering patterns and trends in these areas, I aim to provide valuable insights for professionals and organizations, facilitating informed decision-making regarding career paths, talent acquisition, and compensation strategies.
+In this project, I developed a machine learning model to predict user engagement with promotional banners on a new e-commerce website. By analyzing user behavior and leveraging existing data, the model provides valuable insights for optimizing marketing strategies and targeting potential customers more effectively. This data-driven solution enhances user engagement and improves the effectiveness of promotional efforts on the platform.
 
-<img src="images/Data-Science-Trends.png?raw=true"/>
+<img src="images/CMHeatmap.png?raw=true"/>
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/BigQuery-white?logo=Google)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
-[View code on Github](https://github.com/RCNXV/Data-Science-Trends)
+[View code on Github](https://github.com/RCNXV/Prediction-of-User-Visits-Through-the-Promotional-Banner-Feature)
+
 
 ---
 ## Skill-Based Project
