@@ -41,7 +41,6 @@ In this project, I developed a linear regression model to predict dentist visits
 
 In this project, I developed a machine learning model to predict user engagement with promotional banners on a new e-commerce website. By analyzing user behavior and leveraging existing data, the model provides valuable insights for optimizing marketing strategies and targeting potential customers more effectively. This data-driven solution enhances user engagement and improves the effectiveness of promotional efforts on the platform.
 
-<img src="images/Figure1.ConfusionMatrix.png?raw=true"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
