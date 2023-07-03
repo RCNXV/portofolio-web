@@ -10,9 +10,20 @@ I investigate the evolving field of data science. Through a comprehensive examin
 
 <img src="images/Data-Science-Trends.png?raw=true"/>
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/BigQuery-white?logo=Google)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Colab-white?logo=GoogleColab)](#) [![](https://img.shields.io/badge/BigQuery-white?logo=Google)](#)
 
 [View code on Github](https://github.com/RCNXV/Data-Science-Trends)
+
+---
+### Exploring the Gaming Industry: Game Series, Sales, Publishers, and Developers
+
+The Game Publishing Insights Dashboard offers a comprehensive view of the game publishing industry. It features a collection of charts, including a horizontal bar chart displaying the distribution of games among different publishers, a chart showcasing the number of games published by each publisher, and a line chart illustrating the yearly trend of game releases. This interactive dashboard provides valuable insights into the game publishing landscape, enabling users to analyze publisher-game relationships, track publishing trends over time, and gain a deeper understanding of the industry's dynamics.
+
+<img src="images/Figure1GamingIndustry.png?raw=true"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Colab-white?logo=GoogleColab)](#) [![](https://img.shields.io/badge/PowerBi-white?logo=PowerBI)](#) [![](https://img.shields.io/badge/BigQuery-white?logo=Google)](#)
+
+[View code on Github](https://github.com/RCNXV/Gaming-Industry-Growth)
 
 ---
 ### Machine Learning Project: Recommender System with Similarity Function
@@ -52,6 +63,5 @@ In this project, I developed a machine learning model to predict user engagement
 A selection of smaller projects demonstrating specific data science and ML skills
 
 - [Simple Recommender System](https://github.com/RCNXV/Project-Machine-Learning-with-Python-Simple-Recommender-System)
-- [Gaming Industry Growth](https://github.com/RCNXV/Gaming-Industry-Growth)
 
 ---
