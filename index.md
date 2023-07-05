@@ -63,5 +63,6 @@ In this project, I developed a machine learning model to predict user engagement
 A selection of smaller projects demonstrating specific data science and ML skills
 
 - [Simple Recommender System](https://github.com/RCNXV/Project-Machine-Learning-with-Python-Simple-Recommender-System)
+- [Comparing 3 Different Machine Learning Model to Make Customer Churn Prediction](https://github.com/RCNXV/Comparing-3-different-Machine-Learning-Model-to-make-Customer-Churn-Prediction)
 
 ---
